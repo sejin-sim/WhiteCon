@@ -1,0 +1,15 @@
+data/qmul/images/Set1_Greyscale_AndreeaV_060_000.jpg
+data/qmul/images/Set1_Greyscale_AndreeaV_100_120.jpg
+data/qmul/images/Set1_Greyscale_AndreeaV_120_080.jpg
+data/qmul/images/Set1_Greyscale_CarlaB_070_040.jpg
+data/qmul/images/Set1_Greyscale_HeatherL_090_180.jpg
+data/qmul/images/Set1_Greyscale_HeatherL_100_170.jpg
+data/qmul/images/Set1_Greyscale_KateS_090_020.jpg
+data/qmul/images/Set1_Greyscale_KateS_090_140.jpg
+data/qmul/images/Set1_Greyscale_KatherineW_060_130.jpg
+data/qmul/images/Set1_Greyscale_KatherineW_080_050.jpg
+data/qmul/images/Set1_Greyscale_KatherineW_120_180.jpg
+data/qmul/images/Set1_Greyscale_SueW_080_070.jpg
+data/qmul/images/Set1_Greyscale_SueW_100_060.jpg
+data/qmul/images/Set2_Colour_KatherineW_080_040.jpg
+data/qmul/images/Set2_Colour_KatherineW_090_080.jpg
