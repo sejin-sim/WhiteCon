@@ -11,7 +11,7 @@ def PROPOSED_PARSER():
 
     parser.add_argument('--scaler', type=bool, default=True, help='Normalize(MinMax) scaler')
 
-    parser.add_argument('--model', type=str, default='resnet50', choices=['resnet18', 'resnet50']) 
+    parser.add_argument('--model', type=str, default='resnet50', choices=['resnet50']) 
     parser.add_argument('--epochs', type=int, default=50, help='number of epochs to train (default: 50)') 
     parser.add_argument('--batch-size', type=int, default=48, help='input batch size for training') 
     parser.add_argument('--lr', type=float, default= 0.0001, help='learning rate of optimizer')
@@ -20,5 +20,6 @@ def PROPOSED_PARSER():
     parser.add_argument('--source', type=str, default='M', choices=['F', 'M', 'real', 'realistic', 'toy'], help='source data')
     parser.add_argument('--target', type=str, default='F', choices=['F', 'M', 'real', 'realistic', 'toy'], help='target data')
     parser.add_argument('--label-target-per', type=str, default='5', choices=['5', '10', '20', '30', '100'], help='target data') 
+
 
     return parser
