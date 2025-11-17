@@ -1,7 +1,7 @@
 # WhiteCon
 WhiteCon: Semi-Supervised Domain Adaptation Regression Through Whitening Transform and Dual Consistency
 
-BIWI can be downloaded from [here-faces-0](https://www.kaggle.com/datasets/kmader/biwi-kinect-head-pose-database/data?select=db_annotations).
+BIWI can be downloaded from [here(faces-0)](https://www.kaggle.com/datasets/kmader/biwi-kinect-head-pose-database/data?select=db_annotations).
 
 QMUL can be downloaded from [here](http://www.eecs.qmul.ac.uk/~sgg/QMUL_FaceDataset/QMULFaceDataset.zip).
 
