@@ -2,7 +2,7 @@ import os, torch, gc, argparse
 import numpy as np
 
 from utils.args import PROPOSED_PARSER
-from method.VAWReg import Trainer
+from method.WhiteCon import Trainer
 
 def main():
 
