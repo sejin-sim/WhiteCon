@@ -1,0 +1,19 @@
+# PyTorch build with CUDA 11.8
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch==2.6.0+cu118
+torchvision==0.21.0+cu118
+torchaudio==2.6.0+cu118
+
+scikit-learn==1.9.0
+numpy==2.4.4
+scipy==1.17.1
+pandas==3.0.3
+matplotlib==3.10.9
+seaborn==0.13.2
+tensorboard==2.20.0
+opencv-python==4.13.0.92
+tqdm==4.67.3
+natsort==8.4.0
+xmltodict==1.0.4
+colorama
+Pillow

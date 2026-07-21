@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+
+# training artifacts (checkpoints, tensorboard logs, csvs, plots)
+results/
+
+# datasets: only the split files are tracked, the images are downloaded separately
+data/biwi/hpdb/*/
+data/qmul/images/
+data/mpi3d/real/
+data/mpi3d/realistic/
+data/mpi3d/toy/
+
+# full per-domain file listings, not read by any code
+data/mpi3d/real.txt
+data/mpi3d/realistic.txt
+data/mpi3d/toy.txt
